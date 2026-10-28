@@ -1,2 +1,2 @@
 # git-practice
-Practice Repository
+Practice Repository for learning Git Basics
